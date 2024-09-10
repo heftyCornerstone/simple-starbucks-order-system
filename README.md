@@ -32,4 +32,4 @@
 
 <br>
 
-<img src='https://github.com/user-attachments/assets/a686bf21-6aa3-47ef-b111-94306a76f120' width="60%" height="60%">
+<video src='https://github.com/user-attachments/assets/7b45cfcf-8dd2-4121-9470-34b3e2e8f669' width="60%" height="60%">
