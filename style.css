@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* 여기에 #menu와 #order-summary의 스타일을 추가하세요. */
+/* 버튼과 관련된 스타일은 아래의 예시를 참고하여 완성하세요. */
+#menu, #order-summary{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+#menu{
+    margin-bottom: 20px;
+}
+.menuItem {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.itemInfo {
+    display: flex;
+    justify-content: space-between;
+    width:85%;
+    padding: 10px 0;
+}
+
+button {
+    background-color: #00704a;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005936;
+}
+
+.remove {
+    background-color: #af0000;
+}
+.remove:hover {
+    background-color: #7d0000;
+}
