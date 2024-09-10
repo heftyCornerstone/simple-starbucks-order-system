@@ -42,6 +42,11 @@ button {
     cursor: pointer;
 }
 
+#order-list li {
+    margin: 5px;
+}
+
+
 button:hover {
     background-color: #005936;
 }
